@@ -5,11 +5,32 @@
 }
 
 /* MAIN */
+.main {
+  text-align: center;
+}
 
 /* QUESTION */
+.question {
+  padding: 2em 2%;
+}
+
+.question__img {
+  height: auto;
+  max-width: 450px;
+  width: 100%;
+}
 
 /* ANSWER */
+.answer {
+  padding: 1em 0;
+}
 
 /* title */
+.answer__title {
+  font-weight: 300;
+}
 
 /* buttons */
+.answer__btn {
+  margin: 1em 8px;
+}
